@@ -5,4 +5,4 @@ The advent of small ball lineups and guards is changing not only changing how th
 
 In turn, the game of basketball is no longer played at five positions. Researchers are using machine learning to unearth player and ball movement patterns among teams. In this spirit, we used random forest and support machine vectors (SVM) to classify NBA player by position using advanced data from the 2016-2017 regular season. 
 
-
+Link: https://beyondtheaverage.wordpress.com/2017/11/02/hybrid-positions-across-the-nba/
